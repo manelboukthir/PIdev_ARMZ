@@ -14,4 +14,5 @@ public class Pediatre {
     private int id;
     private String nom; 
     private int nu;
+    private  int prenom;
 }
