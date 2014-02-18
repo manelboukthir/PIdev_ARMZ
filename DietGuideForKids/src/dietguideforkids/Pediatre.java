@@ -12,5 +12,5 @@ package dietguideforkids;
  */
 public class Pediatre {
     private int id;
-    
+    private String nom; 
 }
